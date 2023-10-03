@@ -6,3 +6,13 @@
 .bg-primary-color{
   background-color: #176B87;
 }
+
+
+.bg-button{
+  background-color: #104f64;
+}
+
+.bg-button:hover{
+  background-color: #023444;
+}
+
