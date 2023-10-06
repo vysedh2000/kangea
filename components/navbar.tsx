@@ -25,7 +25,7 @@ export default function Navbar() {
                   type='button'
                   className='bg-button rounded-md px-6 py-3 text-xl font-bold shadow-sm'
                 >
-                  <Link href='/post-jobs'>Post Job</Link>
+                  <Link href='/add-job'>Post Job</Link>
                 </button>
               </li>
             </ul>
